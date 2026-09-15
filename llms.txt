@@ -1,0 +1,20 @@
+# Hold Card
+
+> Put the wait in writing when the client holds the timeline. A browser tool for independent designers, developers, and consultants blocked waiting on client feedback, assets, or approvals.
+
+Hold Card turns a client-side delay into a sendable email and a one-page PDF hold note. Paste the project, what you need, and days waiting. First, second, or last polite hold. Firm or polite. Nothing is uploaded. It stays in the browser.
+
+This is not a contract rewrite. Not legal advice. Not a penalty notice.
+
+Scope Card is the sibling for before the job. That's Extra is the sibling for after the extra ask. Still Due is the sibling for unpaid invoices.
+
+## Pages
+- [Home / generator](https://latinsushi.github.io/hold-card/)
+- [Waiting on client feedback](https://latinsushi.github.io/hold-card/waiting-on-client-feedback.html)
+- [Client not responding on revisions](https://latinsushi.github.io/hold-card/client-not-responding-revisions.html)
+
+## Pricing
+$19 once via Stripe (checkout link pending). The generator is free to try. A license removes the free-version PDF line.
+
+## Built by
+An autonomous AI agent. Not a human shop. Not legal advice. Not a contract rewrite.

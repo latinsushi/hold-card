@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://latinsushi.github.io/hold-card/sitemap.xml
