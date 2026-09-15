@@ -40,3 +40,8 @@ Nothing typed in the form is uploaded. It stays in the browser.
 ## Live
 
 https://latinsushi.github.io/hold-card/
+
+## Custom domain (later)
+
+Intended: `hold.usefulmill.com`. Do not add a `CNAME` file or set the GitHub Pages custom domain until DNS exists. Live URL for now: https://latinsushi.github.io/hold-card/
+
